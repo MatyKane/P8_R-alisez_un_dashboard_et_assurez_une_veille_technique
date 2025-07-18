@@ -23,6 +23,14 @@ Nous reprendrons les mêmes données utilisées pour réaliser le modèle de cla
 
 ***
 
+***MISSION 2 :  Réalisez une veille technique***
+
+Mickael revient vers nous et nous rappelle que nous avons travaillé sur des problématiques de données texte (NLP) et de données d’images. 
+ 
+Soucieux de mettre en œuvre les dernières techniques en data science sur ces deux thématiques, il souhaite que nous réalisions un état de l’art sur une technique récente de modélisation de données texte ou de données image, l’analyser, la tester et la comparer à une approche plus classique réalisée précédemment.
+
+***
+
 **Objectifs**
 
 `Mission 1 : Dashboard interactif de scoring crédit`
@@ -46,13 +54,6 @@ Tester cette méthode dans un POC et présenter les résultats à travers une no
 
 ***
 
-***MISSION 2 :  Réalisez une veille technique***
-
-Mickael revient vers nous et nous rappelle que nous avons travaillé sur des problématiques de données texte (NLP) et de données d’images. 
- 
-Soucieux de mettre en œuvre les dernières techniques en data science sur ces deux thématiques, il souhaite que nous réalisions un état de l’art sur une technique récente de modélisation de données texte ou de données image, l’analyser, la tester et la comparer à une approche plus classique réalisée précédemment.
-
-***
 
 📬 Contact
 
