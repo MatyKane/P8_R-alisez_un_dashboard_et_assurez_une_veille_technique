@@ -1,3 +1,6 @@
+🎥 [Voir la vidéo du dashboard](Kane_Maty_1_Dashboard_062025/streamlit/Dashboard.mp4)
+
+
 **Contexte**
 
 En tant que Data Scientist, nous avons deux nouvelles missions stratégiques :
